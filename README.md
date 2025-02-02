@@ -1,5 +1,4 @@
-## Hi there 👋
-
+My name is 杨睿之 (Yang, Ruizhi). I am an Associate Professor at Fudan University, at the School of Philosophy. My research interests includes mathematical logic, the foundation and philosophy of mathematics, especially the philosophy of set theory. I am also interested in the history of mathematical logic and analytic philosophy, philosophical logic, the philosophy and sociology of science.
 <!--
 **ganganray/ganganray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
